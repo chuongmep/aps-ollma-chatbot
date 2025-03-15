@@ -1,6 +1,6 @@
 # aps-local-chatbot
 
-Simple chatbot for querying metadata of designs in [Autodesk Platform Services](https://aps.autodesk.com) using [Ollama](https://ollama.com/) for chat completion.
+Simple chatbot for querying metadata of designs in [Autodesk Platform Services](https://aps.autodesk.com) using [Ollama](https://ollama.com/) for chat completion. This project try to bring poweful of Local LLM with zero cost into Autodesk Platform Services.
 
 ![](./acc-ollma.png)
 
