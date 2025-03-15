@@ -41,6 +41,8 @@ curl --location 'http://localhost:11434/api/chat' \
 }'
 ```
 
+Download Open Sourece LLM Model from [here](https://ollama.com/search)
+
 ### Setup & Run
 
 - Run Ollama
